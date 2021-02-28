@@ -22,5 +22,4 @@ cart 부분의 get과 post를 확인해보면 다음과 같다.
 ![image info](./images/swaggerget.png)         
 ![image info](./images/swaggerget.png)
 
-관련 내용은 아래 블로그에도 정리해 두었다.
-[블로그링크](https://jungeunpyun.tistory.com/35) 
+관련 내용은 블로그에도 정리해 두었다 : [블로그링크](https://jungeunpyun.tistory.com/35) 
