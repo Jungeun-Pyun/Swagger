@@ -7,6 +7,6 @@ swagger는 백엔드 엔지니어와 프론트엔드 엔지니어와의 원활�
 
 swagger는 localhost:4000/api-docs로 들어가서 확인할 수 있다.
 
-![image info](./images/스크린샷 2021-02-28 오후 1.07.11.png)
+![alt text](https://github.com/Jungeun-Pyun/Swagger/blob/main/images/swaggermain.png)
 
 [블로그링크](https://jungeunpyun.tistory.com/35) 
