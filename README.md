@@ -7,11 +7,11 @@ swagger는 백엔드 엔지니어와 프론트엔드 엔지니어와의 원활�
 
 swagger는 localhost:4000/api-docs로 들어가서 확인할 수 있다.
 
-해당 페이지에 들어가면 첫 화면은 다음과 같다.
+해당 페이지에 들어가면 첫 화면은 다음과 같다.         
 ![alt text](https://github.com/Jungeun-Pyun/Swagger/blob/main/images/swaggermain.png)
-
-cart 부분의 get과 post를 확인해보면 다음과 같다.
-![image info](./images/swaggerget.png)
+         
+cart 부분의 get과 post를 확인해보면 다음과 같다.         
+![image info](./images/swaggerget.png)         
 ![image info](./images/swaggerget.png)
 
 
