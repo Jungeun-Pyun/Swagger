@@ -25,7 +25,7 @@ const swaggerJSDoc = require('swagger-jsdoc')
 
 const swaggerDefinition = {
   info: {
-    title: 'Node 3th Server API',
+    title: 'Node 3rd Server API',
     version: '1.0.0',
     description: 'API description',
 },
